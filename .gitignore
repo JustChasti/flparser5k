@@ -1,0 +1,4 @@
+/venv
+venv
+source/application.db
+.vscode/settings.json
